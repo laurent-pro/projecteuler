@@ -17,3 +17,5 @@ while number<=4000000:
     if number%2==0:
         totalSum+=number
 print(totalSum)
+
+# 4613732
